@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background: lightgrey;
+}
+
+.cbz {
+    width: 100%;
+    background: white;
+    text-align: center;
+}
+
+.contenedor {
+    width: 100%;
+    background: white;
+    margin-bottom: 35px;
+    border-radius: 2px;
+    
+    
+}
+
+.centrado {
+    width: 60%;
+    margin: 50px auto;
+    
+}
+
+.top {
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.desc {
+    padding: 15px;
+}
+
+.gray {
+    color: gray;
+}
